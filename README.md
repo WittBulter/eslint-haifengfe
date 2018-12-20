@@ -17,6 +17,18 @@
       - 'haifengfe'
     ```
 
+3. Use in Vue:
+    ```
+    { "extends": "haifengfe/vue" }
+    ```
+
+    **OR**, if you are using the .yml:
+    ```yml
+    extends:
+      - 'haifengfe/vue'
+    ```
+
+
 #### LICENSE
 
 **MIT**
